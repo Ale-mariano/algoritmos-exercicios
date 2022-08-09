@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660062266 source:c:\users\alema\documents\workspace-c\algoritmos-exercicios\notas\main.c
+	<stdio.h>
+	<stdlib.h>
+
