@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660060548 source:c:\users\alema\documents\workspace-c\algoritmos-exercicios\idades\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
